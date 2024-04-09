@@ -1,0 +1,18 @@
+{
+  "betterfriends": {
+    "settings": {
+      "name": "BetterFriends",
+      "enabled": {
+        "name": "Enabled"
+      },
+      "acceptAll": {
+        "name": "Accept All",
+        "text": "Click to Accept"
+      },
+      "declineAll": {
+        "name": "Decline All",
+        "text": "Click to Decline"
+      }
+    }
+  }
+}
